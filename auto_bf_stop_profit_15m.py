@@ -53,7 +53,7 @@ class AutoTrading:
     order_exist = False
     switch_in_hour = True # if true, will be waiting for inhour position change
     order_id = ''
-    init_trade_amount = 0.05
+    init_trade_amount = 0.02
 
     def __init__(self):
         print("Initializing API")
