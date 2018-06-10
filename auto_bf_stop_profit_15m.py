@@ -420,7 +420,7 @@ class AutoTrading:
         trade_amount = '%.2f' % (abs(self.cur_hold_position))
         traed_amount_switch = '%.2f' % (float(trade_amount) + self.init_trade_amount)
         cur_min = int(time.strftime('%M:')[0:-1])
-        i = (60/4 - cur_min) * 0.9
+        i = 15 % cur_min
         if self.cur_hold_position < 0.0:
             stopprofit = math.floor(checkin_price * (1 - profitcut_factor))
 
