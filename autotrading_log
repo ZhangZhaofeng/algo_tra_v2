@@ -11,3 +11,316 @@ Check in price: 0.000000, position: 0.000000 @ 2018-05-30 21:48:22
 No position exist, trade none position @ 2018-05-30 21:48:22 
 current price is 855528.000000 @ 2018-05-30 21:48:23 
 {'parent_order_acceptance_id': 'JRF20180530-124825-738298'} @ 2018-05-30 21:48:25 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 11:56:25 
+No position exist, trade none position @ 2018-06-10 11:56:25 
+current price is 835219.000000 @ 2018-06-10 11:56:26 
+{'parent_order_acceptance_id': 'JRF20180610-025627-764457'} @ 2018-06-10 11:56:27 
+Order cancelled @ 2018-06-10 12:01:37 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 12:01:37 
+No position exist, trade none position @ 2018-06-10 12:01:37 
+current price is 835252.000000 @ 2018-06-10 12:01:38 
+{'parent_order_acceptance_id': 'JRF20180610-030139-127040'} @ 2018-06-10 12:01:39 
+Order cancelled @ 2018-06-10 12:06:49 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 12:06:49 
+No position exist, trade none position @ 2018-06-10 12:06:49 
+current price is 834923.000000 @ 2018-06-10 12:06:50 
+{'parent_order_acceptance_id': 'JRF20180610-030650-821907'} @ 2018-06-10 12:06:50 
+Order cancelled @ 2018-06-10 12:12:01 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 12:12:01 
+No position exist, trade none position @ 2018-06-10 12:12:01 
+current price is 833833.000000 @ 2018-06-10 12:12:01 
+{'parent_order_acceptance_id': 'JRF20180610-031202-836786'} @ 2018-06-10 12:12:02 
+Order cancelled @ 2018-06-10 12:17:12 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 12:17:12 
+No position exist, trade none position @ 2018-06-10 12:17:12 
+current price is 834721.000000 @ 2018-06-10 12:17:13 
+{'parent_order_acceptance_id': 'JRF20180610-031714-298522'} @ 2018-06-10 12:17:14 
+Order completed @ 2018-06-10 12:22:24 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:22:24 
+Position exist, trade with position @ 2018-06-10 12:22:24 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:22:25 
+{'parent_order_acceptance_id': 'JRF20180610-032225-499669'} @ 2018-06-10 12:22:25 
+Order cancelled @ 2018-06-10 12:27:35 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:27:36 
+Position exist, trade with position @ 2018-06-10 12:27:36 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:27:36 
+{'parent_order_acceptance_id': 'JRF20180610-032736-288339'} @ 2018-06-10 12:27:37 
+Order cancelled @ 2018-06-10 12:32:47 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:32:47 
+Position exist, trade with position @ 2018-06-10 12:32:47 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:32:48 
+{'parent_order_acceptance_id': 'JRF20180610-033248-930915'} @ 2018-06-10 12:32:48 
+Order cancelled @ 2018-06-10 12:37:58 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:37:58 
+Position exist, trade with position @ 2018-06-10 12:37:58 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:37:59 
+{'parent_order_acceptance_id': 'JRF20180610-033759-604773'} @ 2018-06-10 12:37:59 
+Order cancelled @ 2018-06-10 12:43:09 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:43:09 
+Position exist, trade with position @ 2018-06-10 12:43:09 
+Check in price: 835535.000000, position: 0.020000 @ 2018-06-10 12:43:10 
+{'parent_order_acceptance_id': 'JRF20180610-034310-496014'} @ 2018-06-10 12:43:10 
+Order completed @ 2018-06-10 12:48:20 
+Check in price: 830101.000000, position: -0.020000 @ 2018-06-10 12:48:20 
+Position exist, trade with position @ 2018-06-10 12:48:20 
+Check in price: 830101.000000, position: -0.020000 @ 2018-06-10 12:48:21 
+{'parent_order_acceptance_id': 'JRF20180610-034821-389100'} @ 2018-06-10 12:48:21 
+Order cancelled @ 2018-06-10 12:53:31 
+Check in price: 830101.000000, position: -0.020000 @ 2018-06-10 12:53:31 
+Position exist, trade with position @ 2018-06-10 12:53:31 
+Check in price: 830101.000000, position: -0.020000 @ 2018-06-10 12:53:32 
+{'parent_order_acceptance_id': 'JRF20180610-035332-940487'} @ 2018-06-10 12:53:32 
+Order cancelled @ 2018-06-10 12:58:42 
+Check in price: 830101.000000, position: -0.020000 @ 2018-06-10 12:58:42 
+Position exist, trade with position @ 2018-06-10 12:58:42 
+Check in price: 830101.000000, position: -0.020000 @ 2018-06-10 12:58:43 
+{'parent_order_acceptance_id': 'JRF20180610-035843-033880'} @ 2018-06-10 12:58:43 
+Order completed @ 2018-06-10 13:03:54 
+Check in price: 834299.000000, position: 0.020000 @ 2018-06-10 13:03:54 
+Position exist, trade with position @ 2018-06-10 13:03:54 
+Check in price: 834299.000000, position: 0.020000 @ 2018-06-10 13:03:54 
+Detecting inhour switch, last 10 times @ 2018-06-10 13:03:54 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:04:54 
+Place a buy order @ 2018-06-10 13:04:54 
+Detecting inhour switch, last 9 times @ 2018-06-10 13:04:54 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:05:55 
+Place a sell order @ 2018-06-10 13:05:55 
+Detecting inhour switch, last 8 times @ 2018-06-10 13:05:55 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:06:55 
+Detecting inhour switch, last 7 times @ 2018-06-10 13:06:55 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:07:55 
+Detecting inhour switch, last 6 times @ 2018-06-10 13:07:55 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:08:55 
+Detecting inhour switch, last 5 times @ 2018-06-10 13:08:55 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:09:55 
+Place a buy order @ 2018-06-10 13:09:55 
+Detecting inhour switch, last 4 times @ 2018-06-10 13:09:55 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:10:55 
+Detecting inhour switch, last 3 times @ 2018-06-10 13:10:55 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:11:55 
+Detecting inhour switch, last 2 times @ 2018-06-10 13:11:55 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:12:55 
+Detecting inhour switch, last 1 times @ 2018-06-10 13:12:55 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:13:55 
+Detecting inhour switch, last 0 times @ 2018-06-10 13:13:55 
+Check in price: 834499.000000, position: -0.020000 @ 2018-06-10 13:14:56 
+{'parent_order_acceptance_id': 'JRF20180610-040955-483209'} @ 2018-06-10 13:14:56 
+Order completed @ 2018-06-10 13:20:06 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:20:06 
+Position exist, trade with position @ 2018-06-10 13:20:06 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:20:07 
+{'parent_order_acceptance_id': 'JRF20180610-042007-380209'} @ 2018-06-10 13:20:07 
+Order cancelled @ 2018-06-10 13:25:17 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:25:17 
+Position exist, trade with position @ 2018-06-10 13:25:17 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:25:18 
+{'parent_order_acceptance_id': 'JRF20180610-042518-488631'} @ 2018-06-10 13:25:18 
+Order cancelled @ 2018-06-10 13:30:28 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:30:28 
+Position exist, trade with position @ 2018-06-10 13:30:28 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:30:29 
+{'parent_order_acceptance_id': 'JRF20180610-043029-591321'} @ 2018-06-10 13:30:29 
+Order cancelled @ 2018-06-10 13:35:39 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:35:39 
+Position exist, trade with position @ 2018-06-10 13:35:39 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:35:40 
+{'parent_order_acceptance_id': 'JRF20180610-043540-169301'} @ 2018-06-10 13:35:40 
+Order cancelled @ 2018-06-10 13:40:50 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:40:50 
+Position exist, trade with position @ 2018-06-10 13:40:50 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:40:51 
+{'parent_order_acceptance_id': 'JRF20180610-044051-248924'} @ 2018-06-10 13:40:51 
+Order cancelled @ 2018-06-10 13:46:01 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:46:02 
+Position exist, trade with position @ 2018-06-10 13:46:02 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:46:02 
+{'parent_order_acceptance_id': 'JRF20180610-044602-406727'} @ 2018-06-10 13:46:02 
+Order cancelled @ 2018-06-10 13:51:13 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:51:13 
+Position exist, trade with position @ 2018-06-10 13:51:13 
+Check in price: 834099.000000, position: 0.020000 @ 2018-06-10 13:51:14 
+{'parent_order_acceptance_id': 'JRF20180610-045114-479558'} @ 2018-06-10 13:51:14 
+Order completed @ 2018-06-10 13:56:24 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 13:56:24 
+Position exist, trade with position @ 2018-06-10 13:56:24 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 13:56:25 
+{'parent_order_acceptance_id': 'JRF20180610-045625-975854'} @ 2018-06-10 13:56:25 
+Order cancelled @ 2018-06-10 14:01:35 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:01:35 
+Position exist, trade with position @ 2018-06-10 14:01:35 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:01:36 
+Detecting inhour switch, last 12 times @ 2018-06-10 14:01:36 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:02:36 
+Detecting inhour switch, last 11 times @ 2018-06-10 14:02:36 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:03:36 
+Detecting inhour switch, last 10 times @ 2018-06-10 14:03:36 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:04:36 
+Detecting inhour switch, last 9 times @ 2018-06-10 14:04:36 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:05:36 
+Detecting inhour switch, last 8 times @ 2018-06-10 14:05:36 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:06:37 
+Detecting inhour switch, last 7 times @ 2018-06-10 14:06:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:07:37 
+Detecting inhour switch, last 6 times @ 2018-06-10 14:07:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:08:37 
+Detecting inhour switch, last 5 times @ 2018-06-10 14:08:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:09:37 
+Detecting inhour switch, last 4 times @ 2018-06-10 14:09:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:10:37 
+Detecting inhour switch, last 3 times @ 2018-06-10 14:10:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:11:37 
+Detecting inhour switch, last 2 times @ 2018-06-10 14:11:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:12:37 
+Detecting inhour switch, last 1 times @ 2018-06-10 14:12:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:13:37 
+Detecting inhour switch, last 0 times @ 2018-06-10 14:13:37 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:14:37 
+{'parent_order_acceptance_id': 'JRF20180610-050136-635727'} @ 2018-06-10 14:14:37 
+Order cancelled @ 2018-06-10 14:19:47 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:19:47 
+Position exist, trade with position @ 2018-06-10 14:19:47 
+Check in price: 832827.000000, position: -0.020000 @ 2018-06-10 14:19:48 
+{'parent_order_acceptance_id': 'JRF20180610-051948-831387'} @ 2018-06-10 14:19:48 
+Order completed @ 2018-06-10 14:24:59 
+Check in price: 834068.000000, position: 0.020000 @ 2018-06-10 14:24:59 
+Position exist, trade with position @ 2018-06-10 14:24:59 
+Check in price: 834068.000000, position: 0.020000 @ 2018-06-10 14:24:59 
+{'parent_order_acceptance_id': 'JRF20180610-052459-744904'} @ 2018-06-10 14:24:59 
+Order completed @ 2018-06-10 14:30:10 
+Check in price: 833346.000000, position: -0.020000 @ 2018-06-10 14:30:10 
+Position exist, trade with position @ 2018-06-10 14:30:10 
+Check in price: 833346.000000, position: -0.020000 @ 2018-06-10 14:30:11 
+{'parent_order_acceptance_id': 'JRF20180610-053011-452851'} @ 2018-06-10 14:30:11 
+Order cancelled @ 2018-06-10 14:35:21 
+Check in price: 833346.000000, position: -0.020000 @ 2018-06-10 14:35:21 
+Position exist, trade with position @ 2018-06-10 14:35:21 
+Check in price: 833346.000000, position: -0.020000 @ 2018-06-10 14:35:22 
+{'parent_order_acceptance_id': 'JRF20180610-053522-347256'} @ 2018-06-10 14:35:22 
+Order cancelled @ 2018-06-10 14:40:33 
+Check in price: 833346.000000, position: -0.020000 @ 2018-06-10 14:40:33 
+Position exist, trade with position @ 2018-06-10 14:40:33 
+Check in price: 833346.000000, position: -0.020000 @ 2018-06-10 14:40:34 
+{'parent_order_acceptance_id': 'JRF20180610-054034-927698'} @ 2018-06-10 14:40:34 
+Order completed @ 2018-06-10 14:45:44 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 14:45:44 
+Position exist, trade with position @ 2018-06-10 14:45:44 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 14:45:45 
+{'parent_order_acceptance_id': 'JRF20180610-054545-731219'} @ 2018-06-10 14:45:45 
+Order cancelled @ 2018-06-10 14:50:55 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 14:50:55 
+Position exist, trade with position @ 2018-06-10 14:50:55 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 14:50:56 
+{'parent_order_acceptance_id': 'JRF20180610-055056-757626'} @ 2018-06-10 14:50:56 
+Order cancelled @ 2018-06-10 14:56:06 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 14:56:06 
+Position exist, trade with position @ 2018-06-10 14:56:06 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 14:56:07 
+{'parent_order_acceptance_id': 'JRF20180610-055607-164159'} @ 2018-06-10 14:56:07 
+Order cancelled @ 2018-06-10 15:01:17 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 15:01:17 
+Position exist, trade with position @ 2018-06-10 15:01:17 
+Check in price: 833955.000000, position: 0.020000 @ 2018-06-10 15:01:18 
+{'parent_order_acceptance_id': 'JRF20180610-060118-805505'} @ 2018-06-10 15:01:18 
+Order completed @ 2018-06-10 15:06:29 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:06:29 
+Position exist, trade with position @ 2018-06-10 15:06:29 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:06:29 
+Detecting inhour switch, last 8 times @ 2018-06-10 15:06:29 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:07:30 
+Detecting inhour switch, last 7 times @ 2018-06-10 15:07:30 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:08:30 
+Detecting inhour switch, last 6 times @ 2018-06-10 15:08:30 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:09:30 
+Detecting inhour switch, last 5 times @ 2018-06-10 15:09:30 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:10:30 
+Detecting inhour switch, last 4 times @ 2018-06-10 15:10:30 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:11:30 
+Detecting inhour switch, last 3 times @ 2018-06-10 15:11:30 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:12:30 
+Detecting inhour switch, last 2 times @ 2018-06-10 15:12:30 
+Check in price: 833100.000000, position: -0.020000 @ 2018-06-10 15:13:30 
+Detecting inhour switch, last 1 times @ 2018-06-10 15:13:30 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:14:30 
+Place a sell order @ 2018-06-10 15:14:30 
+Detecting inhour switch, last 0 times @ 2018-06-10 15:14:30 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:15:31 
+{'parent_order_acceptance_id': 'JRF20180610-061430-033327'} @ 2018-06-10 15:15:31 
+Order cancelled @ 2018-06-10 15:20:41 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:20:41 
+Position exist, trade with position @ 2018-06-10 15:20:41 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:20:42 
+{'parent_order_acceptance_id': 'JRF20180610-062042-072484'} @ 2018-06-10 15:20:42 
+Order cancelled @ 2018-06-10 15:25:52 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:25:52 
+Position exist, trade with position @ 2018-06-10 15:25:52 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:25:53 
+{'parent_order_acceptance_id': 'JRF20180610-062553-681536'} @ 2018-06-10 15:25:53 
+Order cancelled @ 2018-06-10 15:31:03 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:31:03 
+Position exist, trade with position @ 2018-06-10 15:31:03 
+Check in price: 834988.000000, position: 0.020000 @ 2018-06-10 15:31:04 
+{'parent_order_acceptance_id': 'JRF20180610-063104-708758'} @ 2018-06-10 15:31:04 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:01:05 
+No position exist, trade none position @ 2018-06-10 16:01:05 
+current price is 834763.000000 @ 2018-06-10 16:01:06 
+{'parent_order_acceptance_id': 'JRF20180610-070107-430155'} @ 2018-06-10 16:01:07 
+Order cancelled @ 2018-06-10 16:06:17 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:06:17 
+No position exist, trade none position @ 2018-06-10 16:06:17 
+current price is 834407.000000 @ 2018-06-10 16:06:18 
+{'parent_order_acceptance_id': 'JRF20180610-070618-711614'} @ 2018-06-10 16:06:18 
+Order cancelled @ 2018-06-10 16:11:29 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:11:29 
+No position exist, trade none position @ 2018-06-10 16:11:29 
+current price is 833780.000000 @ 2018-06-10 16:11:29 
+{'parent_order_acceptance_id': 'JRF20180610-071130-023735'} @ 2018-06-10 16:11:30 
+Order cancelled @ 2018-06-10 16:16:41 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:16:41 
+No position exist, trade none position @ 2018-06-10 16:16:41 
+current price is 833739.000000 @ 2018-06-10 16:16:41 
+{'parent_order_acceptance_id': 'JRF20180610-071642-832955'} @ 2018-06-10 16:16:42 
+Order cancelled @ 2018-06-10 16:21:52 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:21:52 
+No position exist, trade none position @ 2018-06-10 16:21:52 
+current price is 833447.000000 @ 2018-06-10 16:21:53 
+{'parent_order_acceptance_id': 'JRF20180610-072154-707040'} @ 2018-06-10 16:21:54 
+Order cancelled @ 2018-06-10 16:27:04 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:27:04 
+No position exist, trade none position @ 2018-06-10 16:27:04 
+current price is 832876.000000 @ 2018-06-10 16:27:05 
+{'parent_order_acceptance_id': 'JRF20180610-072706-058438'} @ 2018-06-10 16:27:06 
+Order cancelled @ 2018-06-10 16:32:16 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:32:16 
+No position exist, trade none position @ 2018-06-10 16:32:16 
+current price is 832594.000000 @ 2018-06-10 16:32:17 
+{'parent_order_acceptance_id': 'JRF20180610-073217-883518'} @ 2018-06-10 16:32:17 
+Order cancelled @ 2018-06-10 16:38:19 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:38:19 
+No position exist, trade none position @ 2018-06-10 16:38:19 
+current price is 826942.000000 @ 2018-06-10 16:38:19 
+{'parent_order_acceptance_id': 'JRF20180610-073820-611070'} @ 2018-06-10 16:38:21 
+Order cancelled @ 2018-06-10 16:43:31 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:43:31 
+No position exist, trade none position @ 2018-06-10 16:43:31 
+current price is 822207.000000 @ 2018-06-10 16:43:32 
+{'parent_order_acceptance_id': 'JRF20180610-074332-967813'} @ 2018-06-10 16:43:32 
+Order cancelled @ 2018-06-10 16:48:43 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:48:43 
+No position exist, trade none position @ 2018-06-10 16:48:43 
+current price is 824258.000000 @ 2018-06-10 16:48:43 
+{'parent_order_acceptance_id': 'JRF20180610-074844-941198'} @ 2018-06-10 16:48:44 
+Order cancelled @ 2018-06-10 16:53:54 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:53:54 
+No position exist, trade none position @ 2018-06-10 16:53:54 
+current price is 824580.000000 @ 2018-06-10 16:53:55 
+{'parent_order_acceptance_id': 'JRF20180610-075356-367217'} @ 2018-06-10 16:53:56 
+Order cancelled @ 2018-06-10 16:59:07 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 16:59:07 
+No position exist, trade none position @ 2018-06-10 16:59:07 
+current price is 822188.000000 @ 2018-06-10 16:59:07 
+{'parent_order_acceptance_id': 'JRF20180610-075908-416624'} @ 2018-06-10 16:59:08 
+Order cancelled @ 2018-06-10 17:04:18 
+Check in price: 0.000000, position: 0.000000 @ 2018-06-10 17:04:19 
+No position exist, trade none position @ 2018-06-10 17:04:19 
+current price is 824225.000000 @ 2018-06-10 17:04:19 
+{'parent_order_acceptance_id': 'JRF20180610-080420-862928'} @ 2018-06-10 17:04:20 

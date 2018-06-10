@@ -1,2 +1,86 @@
 0,May:30:21:45,order,SELL_STOP,amount,0.050000,trigger,835917.000000
 0,May:30:21:48,order,SELL_STOP,amount,0.020000,trigger,835917.000000
+0,Jun:10:11:56,order,OCO_STOP,amount,0.020000,buy,837251.000000,sell,830621.000000
+0,Jun:10:12:01,order,OCO_STOP,amount,0.020000,buy,836331.000000,sell,829747.000000
+0,Jun:10:12:06,order,OCO_STOP,amount,0.020000,buy,836331.000000,sell,829747.000000
+0,Jun:10:12:12,order,OCO_STOP,amount,0.020000,buy,836331.000000,sell,829747.000000
+0,Jun:10:12:17,order,OCO_STOP,amount,0.020000,buy,835733.000000,sell,828569.000000
+0,Jun:10:12:22,position,0.020000,check in price,835535.000000
+0,Jun:10:12:22,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,944154.000000,stoploss,829569.000000
+0,Jun:10:12:27,position,0.020000,check in price,835535.000000
+0,Jun:10:12:27,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,944154.000000,stoploss,829569.000000
+0,Jun:10:12:32,position,0.020000,check in price,835535.000000
+0,Jun:10:12:32,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,944154.000000,stoploss,831179.000000
+0,Jun:10:12:37,position,0.020000,check in price,835535.000000
+0,Jun:10:12:37,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,944154.000000,stoploss,831179.000000
+0,Jun:10:12:43,position,0.020000,check in price,835535.000000
+0,Jun:10:12:43,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,944154.000000,stoploss,831179.000000
+0,Jun:10:12:48,position,-0.020000,check in price,830101.000000
+0,Jun:10:12:48,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,722187.000000,stoploss,834448.000000
+0,Jun:10:12:53,position,-0.020000,check in price,830101.000000
+0,Jun:10:12:53,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,722187.000000,stoploss,834448.000000
+0,Jun:10:12:58,position,-0.020000,check in price,830101.000000
+0,Jun:10:12:58,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,722187.000000,stoploss,834448.000000
+0,Jun:10:13:03,position,0.020000,check in price,834299.000000
+0,Jun:10:13:03,order,OCO_SELL_LIMIT_STOP(inhour),amount,0.040000,stopprofit,834299.000000,stoploss,831880.000000
+0,Jun:10:13:04,order,OCO_BUY_LIMIT_STOP(inhour),amount,0.040000,stopprofit,834299.000000,stoploss,837886.000000
+0,Jun:10:13:05,order,OCO_SELL_LIMIT_STOP(inhour),amount,0.040000,stopprofit,834299.000000,stoploss,830711.000000
+0,Jun:10:13:09,order,OCO_BUY_LIMIT_STOP(inhour),amount,0.040000,stopprofit,834299.000000,stoploss,837886.000000
+0,Jun:10:13:20,position,0.020000,check in price,834099.000000
+0,Jun:10:13:20,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832702.000000
+0,Jun:10:13:25,position,0.020000,check in price,834099.000000
+0,Jun:10:13:25,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832702.000000
+0,Jun:10:13:30,position,0.020000,check in price,834099.000000
+0,Jun:10:13:30,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832752.000000
+0,Jun:10:13:35,position,0.020000,check in price,834099.000000
+0,Jun:10:13:35,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832752.000000
+0,Jun:10:13:40,position,0.020000,check in price,834099.000000
+0,Jun:10:13:40,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832752.000000
+0,Jun:10:13:46,position,0.020000,check in price,834099.000000
+0,Jun:10:13:46,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832649.000000
+0,Jun:10:13:51,position,0.020000,check in price,834099.000000
+0,Jun:10:13:51,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942531.000000,stoploss,832649.000000
+0,Jun:10:13:56,position,-0.020000,check in price,832827.000000
+0,Jun:10:13:56,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,724559.000000,stoploss,834011.000000
+0,Jun:10:14:01,position,-0.020000,check in price,832827.000000
+0,Jun:10:14:01,order,OCO_BUY_LIMIT_STOP(inhour),amount,0.040000,stopprofit,832827.000000,stoploss,835145.000000
+0,Jun:10:14:19,position,-0.020000,check in price,832827.000000
+0,Jun:10:14:19,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,724559.000000,stoploss,834371.000000
+0,Jun:10:14:24,position,0.020000,check in price,834068.000000
+0,Jun:10:14:24,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942496.000000,stoploss,833157.000000
+0,Jun:10:14:30,position,-0.020000,check in price,833346.000000
+0,Jun:10:14:30,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,725011.000000,stoploss,834096.000000
+0,Jun:10:14:35,position,-0.020000,check in price,833346.000000
+0,Jun:10:14:35,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,725011.000000,stoploss,834096.000000
+0,Jun:10:14:40,position,-0.020000,check in price,833346.000000
+0,Jun:10:14:40,order,OCO_BUY_LIMIT_STOP,amount,0.020000,stopprofit,725011.000000,stoploss,834096.000000
+0,Jun:10:14:45,position,0.020000,check in price,833955.000000
+0,Jun:10:14:45,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942369.000000,stoploss,833040.000000
+0,Jun:10:14:50,position,0.020000,check in price,833955.000000
+0,Jun:10:14:50,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942369.000000,stoploss,833040.000000
+0,Jun:10:14:56,position,0.020000,check in price,833955.000000
+0,Jun:10:14:56,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942369.000000,stoploss,833040.000000
+0,Jun:10:15:01,position,0.020000,check in price,833955.000000
+0,Jun:10:15:01,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,942369.000000,stoploss,833130.000000
+0,Jun:10:15:06,position,-0.020000,check in price,833100.000000
+0,Jun:10:15:06,order,OCO_BUY_LIMIT_STOP(inhour),amount,0.040000,stopprofit,833100.000000,stoploss,834692.000000
+0,Jun:10:15:14,order,OCO_SELL_LIMIT_STOP(inhour),amount,0.040000,stopprofit,833100.000000,stoploss,829517.000000
+0,Jun:10:15:20,position,0.020000,check in price,834988.000000
+0,Jun:10:15:20,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,943536.000000,stoploss,833295.000000
+0,Jun:10:15:25,position,0.020000,check in price,834988.000000
+0,Jun:10:15:25,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,943536.000000,stoploss,833295.000000
+0,Jun:10:15:31,position,0.020000,check in price,834988.000000
+0,Jun:10:15:31,order,OCO_SELL_LIMIT_STOP,amount,0.020000,stopprofit,943536.000000,stoploss,833807.000000
+0,Jun:10:16:01,order,BUY_STOP,amount,0.020000,trigger,844678.000000
+0,Jun:10:16:06,order,BUY_STOP,amount,0.020000,trigger,844678.000000
+0,Jun:10:16:11,order,BUY_STOP,amount,0.020000,trigger,844678.000000
+0,Jun:10:16:16,order,BUY_STOP,amount,0.020000,trigger,843653.000000
+0,Jun:10:16:21,order,BUY_STOP,amount,0.020000,trigger,843653.000000
+0,Jun:10:16:27,order,BUY_STOP,amount,0.020000,trigger,843653.000000
+0,Jun:10:16:32,order,BUY_STOP,amount,0.020000,trigger,842602.000000
+0,Jun:10:16:38,order,BUY_STOP,amount,0.020000,trigger,842602.000000
+0,Jun:10:16:43,order,BUY_STOP,amount,0.020000,trigger,842602.000000
+0,Jun:10:16:48,order,BUY_STOP,amount,0.020000,trigger,841523.000000
+0,Jun:10:16:53,order,BUY_STOP,amount,0.020000,trigger,841523.000000
+0,Jun:10:16:59,order,BUY_STOP,amount,0.020000,trigger,841523.000000
+0,Jun:10:17:04,order,BUY_STOP,amount,0.020000,trigger,840210.000000
