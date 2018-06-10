@@ -420,7 +420,7 @@ class AutoTrading:
         trade_amount = '%.2f' % (abs(self.cur_hold_position))
         traed_amount_switch = '%.2f' % (float(trade_amount) + self.init_trade_amount)
         cur_min = int(time.strftime('%M:')[0:-1])
-        i = (60/4 - cur_min) * 0.9
+        i =  cur_min % 15
         if self.cur_hold_position < 0.0:
             stopprofit = math.floor(checkin_price * (1 - profitcut_factor))
 
@@ -458,15 +458,25 @@ class AutoTrading:
             self.order_exist = True
             self.order_id = order['parent_order_acceptance_id']
 
-    def get_hilo(self):
-        hilos = technical_fx_bidirc.HILO()
-        result = hilos.publish_current_hilo_price(periods="15m")
 
+    def get_hilo(self):
+        i = 0
+        while i < 30:
+            try:
+                hilos = technical_fx_bidirc.HILO()
+                result = hilos.publish_current_hilo_price(periods="15m")
         # result = prediction.publish_current_limit_price(periods="1H")
-        sell = float(result[1])
-        buy = float(result[0])
-        close = float(result[2])  # the close price of last hour
-        return([sell, buy, close])
+                sell = float(result[1])
+                buy = float(result[0])
+                close = float(result[2])  # the close price of last hour
+                return([sell, buy, close])
+            except Exception:
+                print(Exception)
+                predict.print_and_write('Try to get hilo again')
+                time.sleep(10)
+                i+=1
+                continue
+
 
     def get_orders(self, status = ''):
         #order = self.quoinex_api.get_orders()
@@ -557,6 +567,20 @@ class AutoTrading:
 
             self.trade_with_position(hi, lo, close)
 
+def sendamail(title ,str):
+    address = '@'  # change the reciver e-mail address to yours
+    username = 'goozzfgle@gmail.com'
+    paswd = 'googlebaidu'
+
+    mail_str = '%s %s' % (str, formatdate(None, True, None))
+    sender = SendMail(address, username, paswd)
+    msg = MIMEText(mail_str)
+    msg['Subject'] = title
+    msg['From'] = username
+    msg['To'] = address
+    msg['Date'] = formatdate()
+    sender.send_email(address, msg.as_string())
+
 if __name__ == '__main__':
     argvs = sys.argv
     argc = len(argvs)
@@ -565,8 +589,11 @@ if __name__ == '__main__':
         autoTrading.switch_in_hour = bool(sys.argv[1])
 
     #tdelta = autoTrading.bf_timejudge('2018-05-21T14:35:44.713')
-    while 1:
-        autoTrading.judge_condition()
-        time.sleep(300)
-
+    try:
+        while 1:
+            autoTrading.judge_condition()
+            time.sleep(300)
+    except Exception:
+        print(Exception)
+        sendamail('Exception', 'exception happend')
     #autoTrading.get_current_price(100)
